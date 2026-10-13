@@ -1,1 +1,3 @@
-# Détecteur d'injection de prompts
+# fast-injection-detector
+---
+## Détecteur d'injection de prompts
