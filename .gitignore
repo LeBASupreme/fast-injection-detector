@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environnements
+.venv/
+venv/
+env/
+ENV/
+.python-version.local
+
+# Empaquetage
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+wheels/
+pip-wheel-metadata/
+
+# Tests et couverture
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+.hypothesis/
+.tox/
+.nox/
+
+# Outils
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.dmypy.json
+dmypy.json
+
+# Secrets et config locale
+.env
+.env.*
+!.env.example
+*.local
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs et bases locales
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.idea/
+.vscode/
+*.swp
+*~
+
+
+models/

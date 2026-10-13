@@ -1,0 +1,7 @@
+[project]
+name = "detecteur-injection-optimise"
+version = "0.1.0"
+description = "Prompt injection detector (DeBERTa-v3) optimized for CPU with ONNX and int8 quantization, with speed/accuracy benchmarks."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
